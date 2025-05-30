@@ -97,3 +97,15 @@ if __name__ == '__main__':
 
 ![fire.13](C:\Users\柳院梅厅\Desktop\实验室\人工智能部\识别\runs\detect\predict\fire.13.jpg)
 
+# 安装依赖
+
+```
+# 创建新的虚拟环境
+python -m venv .venv
+source .venv/bin/activate  # Linux/macOS
+.\.venv\Scripts\activate   # Windows
+
+# 安装依赖
+pip install -r requirements.txt
+```
+
