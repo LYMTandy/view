@@ -54,7 +54,7 @@ https://docs.ultralytics.com/zh/modes/train/
 
 ### labelimg划分自定义训练
 
-![image-20250529211650593](mdpicture\image-20250529211650593.png)
+![image-20250529211650593](mdpicture/image-20250529211650593.png)
 
 具体内容可看这篇博客
 
