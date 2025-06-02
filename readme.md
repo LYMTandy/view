@@ -95,7 +95,7 @@ if __name__ == '__main__':
     main()  # 通过主函数调用训练逻辑
 ```
 
-![fire.13](mdpicture/image-20250529154132747.png)
+![fire.1](mdpicture/fire.1.jpg)
 
 # 安装依赖
 
