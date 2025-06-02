@@ -22,7 +22,7 @@ nvidia-smi
 
 这个在cmd下可以查看自己的cuda版本
 
-![image-20250530093515148](C:\Users\柳院梅厅\AppData\Roaming\Typora\typora-user-images\image-20250530093515148.png)
+![image-20250530093515148](mdpicture/image-20250530093515148.png)
 
 一定要注意自己用的python版本和torch版本还有torchvision版本要对得上，并且是可以使用GPU的版本
 
