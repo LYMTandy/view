@@ -42,7 +42,7 @@ source = r'C:\Users\柳院梅厅\Desktop\v2-93aba9c44bf90fbae5d983b9528b5f93_r.j
 model.predict(source, save=True)
 ```
 
-这里测试了两个图片，一个火焰一个猫，火焰识别成了花瓶 (vase)，猫识别成功 (cat)。说明我们要自定义训练集来训练模型。![image-20250529154132747](mdpicture/image-20250529211650593.png)
+这里测试了两个图片，一个火焰一个猫，火焰识别成了花瓶 (vase)，猫识别成功 (cat)。说明我们要自定义训练集来训练模型。![image-20250529154132747](mdpicture/image-20250529154132747.png)
 
 # 训练模型
 
@@ -54,7 +54,7 @@ https://docs.ultralytics.com/zh/modes/train/
 
 ### labelimg划分自定义训练
 
-![image-20250529211650593](C:\Users\柳院梅厅\AppData\Roaming\Typora\typora-user-images\image-20250529211650593.png)
+![image-20250529211650593](mdpicture\image-20250529211650593.png)
 
 具体内容可看这篇博客
 
@@ -95,7 +95,7 @@ if __name__ == '__main__':
     main()  # 通过主函数调用训练逻辑
 ```
 
-![fire.13](C:\Users\柳院梅厅\Desktop\实验室\人工智能部\识别\runs\detect\predict\fire.13.jpg)
+![fire.13](mdpicture/image-20250529154132747.png)
 
 # 安装依赖
 
